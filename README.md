@@ -33,8 +33,7 @@ Whether you're brushing up your skills or building a showcase for GitHub and Lin
 |--------------------|--------------------------------------|---------|
 | 📄 PDF Merger      | Merge multiple PDFs via CLI          | ✅ Done |
 | 📋 To-Do CLI App   | Simple command-line task manager     | 🚧 WIP  |
-| 🌦️ Weather Fetcher | Get live weather data via API        | 🚧 WIP  |
-| 🔐 Password Vault  | Secure password manager with hashing | 🚧 WIP  |
+
 
 > Each project folder includes its own `README.md`, source code, and sample files if needed.
 
